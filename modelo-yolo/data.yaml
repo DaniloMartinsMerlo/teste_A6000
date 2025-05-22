@@ -1,0 +1,10 @@
+path: /home/ec06-g5/Documents/modeloYoloRoberto/modelo-yolo/database
+
+train: /home/ec06-g5/Documents/modeloYoloRoberto/modelo-yolo/dataset/train
+val: /home/ec06-g5/Documents/modeloYoloRoberto/modelo-yolo/dataset/val
+
+n: 2
+names:
+  - retracao
+  - termica
+
